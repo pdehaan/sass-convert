@@ -32,10 +32,7 @@
     "type": "git",
     "url": "git://github.com/SassDoc/sass-convert.git"
   },
-  "license": {
-    "type": "unlicence",
-    "url": "http://unlicense.org"
-  },
+  "license": "Unlicence",
   "files": [
     "bin",
     "dist",
